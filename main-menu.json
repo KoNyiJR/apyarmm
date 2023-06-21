@@ -1,12 +1,12 @@
 
-{
-"version":"2.0",
+##
+##version":"2.0",
 "message":"Please Update Sir.\n- ကျေးဇူးပြု၍ ကျွန်တော်တို့ရဲ့ App အသစ်ကို ဒေါင်းယူပေးပါဗျ။\n- ဖောင်းဒိုင်းအသစ်များ၊ချောင်းရိုက် အသစ်များကို New App မှာ ကြည့်ရှူခံစားလိုက်ပါ။\nAdmin=>KyawGyi",
 "link":"https://play.google.com/store/apps/details?id=com.dev.k",
 "state":"on",
 "des":"ယခု video ကိုကြည့်ရန် VPN ခံထားရန် လိုအပ်ပါတယ်။",
 "apyar":[
-{
+##
 "title":" Full Movie ( 1 ) ",
 "image":"https://img-l3.xnxx-cdn.com/videos/thumbslll/cc/d0/81/ccd08157846665616319e395a5159e48/ccd08157846665616319e395a5159e48.11.jpg",
 "link":"https://raw.githubusercontent.com/KoNyiJR/apyarmm/main/fullmovie1.json",
